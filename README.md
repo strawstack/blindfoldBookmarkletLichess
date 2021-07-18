@@ -21,3 +21,7 @@ https://caiorss.github.io/bookmarklet-maker/
 # View the Source Code
 
 The JS source code for this tool is available in `boardPosition.js` and `showHide.js`.
+
+# Screenshot
+
+![](./one.PNG)
