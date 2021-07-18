@@ -6,7 +6,7 @@ This code is designed to help one practice blindfold chess tactics on Lichess. T
 
 # How to Use This Code
 
-1. Open <a href="" target="_blank">this site</a>.
+1. Open <a href="https://strawstack.github.io/blindfoldBookmarkletLichess/" target="_blank">this site</a>.
 
 2. Drag the links into your bookmarks bar.
 
